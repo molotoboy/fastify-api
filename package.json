@@ -13,6 +13,6 @@
   "dependencies": {
     "fastify": "^2.14.1",
     "glob": "^7.1.6",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   }
 }
