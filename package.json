@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fastify": "^2.14.1",
+    "fastify": "^2.15.1",
     "glob": "^7.1.6",
     "lodash": "^4.17.15"
   }
